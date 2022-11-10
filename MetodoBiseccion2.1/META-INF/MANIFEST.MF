@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.8
+Created-By: 11.0.11+9-LTS (Amazon.com Inc.)
+Class-Path: lib/ext-1.1.1.jar lib/jep-2.4.1.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: metodobiseccion.Principal
+
